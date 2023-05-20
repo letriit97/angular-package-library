@@ -32,6 +32,7 @@ H~2~O
 > :point_right: `ng new my-workspace --no-create-application` 
 ## **Tạo mới Library**
 > :point_right: `cd my-workspace`
+
 > :point_right: `ng generate library my-lib`
 
 ## **Building**
@@ -70,7 +71,7 @@ H~2~O
 ```
 
 
-## ** Public lên NPM **
+## **Public lên NPM**
 1. :open_file_folder: trỏ vào thư mục publish `cd dist/ my-lib`
 2. :pencil2: sử dụng lệnh `npm publish` hoặc `npm publish --access=public`
 
