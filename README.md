@@ -14,6 +14,19 @@
       <pre *ngSwitchCase="'build'">ng build</pre>
   </div>
  ```
- 
- Here's a sentence with a footnote. [^1]
+
+- [x] Write the press release
+- [x] Update the website
+- [x] Contact the media
+
+
+~~The world is flat.~~
+
+That is so funny! :joy:
+
+H~2~O
+
+:zap: 
+
+
 
