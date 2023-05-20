@@ -36,7 +36,7 @@ H~2~O
 > :point_right: `ng generate library my-lib`
 
 ## **Building**
-> :point_right: ng build my-lib
+> :point_right: ```ng build my-lib```
 
 ## **Đăng nhập vào npm**
 >:point_right: [Link video hướng dẫn chi tiết. Tham khảo tại đây.](https://www.youtube.com/watch?v=ffhakPS36x0)
