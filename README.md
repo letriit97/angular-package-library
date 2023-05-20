@@ -37,7 +37,7 @@ H~2~O
 ## **Building**
 > :point_right: ng build my-lib
 
-## ** Đăng nhập vào npm **
+## **Đăng nhập vào npm**
 >:point_right: [Link video hướng dẫn chi tiết. Tham khảo tại đây.](https://www.youtube.com/watch?v=ffhakPS36x0)
 1. Tạo tài khoản npm
 2. Tạo Organization
@@ -46,7 +46,7 @@ H~2~O
 - :key: Nhập Password
 - :envelope: Nhập email
 
-## ** Setup **
+## **Setup**
 
 ```
 "name": "@developer-ben/component-library",
